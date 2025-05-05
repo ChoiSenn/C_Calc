@@ -1,1 +1,2 @@
 E:\Study\C_Study\Calc\x64\Debug\Calc.exe
+E:\Study\C_Study\C_Calc\x64\Debug\Calc.exe
